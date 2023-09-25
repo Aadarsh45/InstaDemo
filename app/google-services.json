@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1098706192289",
+    "firebase_url": "https://geeksinstademo-default-rtdb.firebaseio.com",
+    "project_id": "geeksinstademo",
+    "storage_bucket": "geeksinstademo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098706192289:android:d0334f1acb795be2c42de0",
+        "android_client_info": {
+          "package_name": "com.rj.geeksinstademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098706192289-8u12kt0klmiifbjhcq6rjjbsn3bku6jp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rj.geeksinstademo",
+            "certificate_hash": "911af98abc1ff1dcfaada5f9272ac6a4ab259078"
+          }
+        },
+        {
+          "client_id": "1098706192289-fj6cblffc3q3adl034vvdlasj7ia9uvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ5OMtdMBTLSeY7mbltO6O9GQIO_SoBI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098706192289-fj6cblffc3q3adl034vvdlasj7ia9uvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
