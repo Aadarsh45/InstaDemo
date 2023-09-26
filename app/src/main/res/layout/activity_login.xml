@@ -42,7 +42,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New to GeeksInsta, Register"
+        android:text="New to Insta, Register"
         android:layout_marginTop="15dp"
         android:id="@+id/register_user"/>
 </LinearLayout>
